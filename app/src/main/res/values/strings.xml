@@ -30,4 +30,6 @@
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
     <string name="done">done</string>
     <string name="_0">0</string>
+    <string name="calories">Calories</string>
+    <string name="kilojoules">KiloJoules</string>
 </resources>
