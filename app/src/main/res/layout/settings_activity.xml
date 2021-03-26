@@ -21,16 +21,12 @@
         android:text="@string/kilojoules"
         android:onClick="buttonKilojoules"/>
 
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="@string/calories"
         android:onClick="buttonCalories"/>
-
-
-
 
     <Button
         android:layout_width="wrap_content"
@@ -39,8 +35,5 @@
         android:onClick="doneClicked"
         android:text="@string/done"
         android:layout_marginTop="200sp"/>
-
-
-
 </androidx.appcompat.widget.LinearLayoutCompat>
 
